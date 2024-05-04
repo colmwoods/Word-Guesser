@@ -1,27 +1,30 @@
 # Word-Guesser
 
-This URL Snipper Can Basically Optain A URL Given And Able To Find The Username Within It. URL's From Facebook, Twitter, Instagram, Tiktok, Github, Reddit And More Of Your Favourate Applications.
+This Word Guesser Is A Very User Friendly Game Where You Guess The Word That Is Scrammbled Up. Very Fun Game To Improve Your Problem-Solving And Spelling
+With The Power Of The Terminal These Days It Is Used To Run Alot Of Applications Including This C Program, Which You Will Have To Compile Due To C Being Old
 
-With The Power Of The Terminal These Days It Is Used To Run Alot Of Applications Including This Python Program.
+To Run This Program From The CLI, Terminal You Must First Compile Your Code Using A Compiler. For This Program We Will Use GCC
 
-To Run This Program From The CLI, Terminal You Must Type In Python snipper.py
-
-    Python snipper.py
-
-Your Output:
-You Are Looking For A Username On Which Application:
-
-Here You Type In The Application You Are Trying To Get Such As Github Which We Will Be Going With It In This Example. Misspelling The Application Will Cause The Program Not Find The Username, Caps, Lowercase Does Not Matter.
-
-     Github
+    gcc -o project project.c   # Make Sure You Put Your Chosen Name Before The File Name #
 
 Your Output:
-I Need The URL From Github:
 
-Here Is Where You Put In The Final Piece, Your URL. Since We Have Typed Github As Our Application Name Above Make Sure It Is Your Github Account.
 
-     https://github.com/colmwoods
+So Now You Can Run The Code Type ./project.
+
+     ./project
 
 Your Output:
-This Github Accounts Username: colmwoods
-Congrats As You Can See From The Last Output We Got Our Github Username Of colmwoods. Feel Free To Try It Out And Try Using Different Applications
+Scrambled Word: hte
+What's The Word: 
+
+Here Is Where You Put In The Word You Think Is Scrammbled Up, Lets Say The.
+
+    What's The Word: the
+
+Your Output:
+Congratulations! 
+You Guessed The Word Correctly
+
+Congrats As You Can See You Guessed The Word Correctly And If You Guessed Wrong You Will Get Told You Are Wrong And WHat The Word Was
+
