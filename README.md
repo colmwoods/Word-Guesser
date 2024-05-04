@@ -26,5 +26,5 @@ Your Output:
 Congratulations! 
 You Guessed The Word Correctly
 
-Congrats As You Can See You Guessed The Word Correctly And If You Guessed Wrong You Will Get Told You Are Wrong And WHat The Word Was
+Congrats As You Can See You Guessed The Word Correctly And If You Guessed Wrong You Will Get Told You Are Wrong And What The Word Was
 
