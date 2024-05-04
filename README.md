@@ -25,6 +25,14 @@ Here Is Where You Put In The Word You Think Is Scrammbled Up, Lets Say The.
 Your Output:
 Congratulations! 
 You Guessed The Word Correctly
+Do You Want To Play Again? (Yes/No):
 
-Congrats As You Can See You Guessed The Word Correctly And If You Guessed Wrong You Will Get Told You Are Wrong And What The Word Was
+Congrats As You Can See You Guessed The Word Correctly And Promted If You Wanna Play Or Not. 
+If You Guessed Wrong This Is Your Output.
 
+    What's The Word: be
+
+Your Output: 
+Sorry, That's Incorrect. 
+The Word Was: de
+Do You Want To Play Again? (Yes/No):
