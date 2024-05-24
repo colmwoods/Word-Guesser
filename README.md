@@ -1,5 +1,10 @@
 # Word-Guesser
 #### Video Demo:  <https://www.youtube.com/watch?v=DVW3Q30iZzM>
+
+#### How To Download: 
+To Use This Program You Can Download It By Using This Command
+         git clone https://github.com/colmwoods/Word-Guessing-Game.git
+
 #### Description:
 
 
