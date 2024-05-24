@@ -3,6 +3,7 @@
 
 #### How To Download: 
 To Use This Program You Can Download It By Using This Command
+
          git clone https://github.com/colmwoods/Word-Guessing-Game.git
 
 #### Description:
